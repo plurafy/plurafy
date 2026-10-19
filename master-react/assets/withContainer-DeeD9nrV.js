@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C2f9LJXq.js";var t=e(),n=e=>n=>(0,t.jsx)(`div`,{className:`flex-1 flex flex-col items-center gap-16 min-h-0`,children:(0,t.jsx)(`div`,{className:`max-w-4xl w-full space-y-6 p-4`,children:(0,t.jsx)(e,{...n})})});export{n as t};
